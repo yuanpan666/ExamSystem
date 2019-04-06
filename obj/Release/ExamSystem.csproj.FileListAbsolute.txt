@@ -1,0 +1,9 @@
+D:\C#Form\ExamSystem\ExamSystem\bin\Release\ExamSystem.exe.config
+D:\C#Form\ExamSystem\ExamSystem\bin\Release\ExamSystem.exe
+D:\C#Form\ExamSystem\ExamSystem\bin\Release\ExamSystem.pdb
+D:\C#Form\ExamSystem\ExamSystem\obj\Release\ExamSystem.Main.resources
+D:\C#Form\ExamSystem\ExamSystem\obj\Release\ExamSystem.Properties.Resources.resources
+D:\C#Form\ExamSystem\ExamSystem\obj\Release\ExamSystem.csproj.GenerateResource.Cache
+D:\C#Form\ExamSystem\ExamSystem\obj\Release\ExamSystem.exe
+D:\C#Form\ExamSystem\ExamSystem\obj\Release\ExamSystem.pdb
+D:\C#Form\ExamSystem\ExamSystem\obj\Release\ExamSystem.csprojResolveAssemblyReference.cache
